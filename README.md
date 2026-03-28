@@ -1,2 +1,2 @@
 # Voice-Controlled-ChatBot-Terminal
-The Voice-Controlled ChatBot Terminal was developed using python and ESP32. The system accepts voice commands, processes them, and displays the response on the LCD screen.
+Developed a Voice-Controlled ChatBot Terminal using Pyhton and ESP32, enabling users to interact through speech. Implemented speech recognition, NLP, and text-to-speech capabilities, with secure login for authoried access. The project strengthened skills in hardware-software integration, full-stack development, and voice-enabled interfaces. Demonstrated practical application of voice-controlled embedded systems.
