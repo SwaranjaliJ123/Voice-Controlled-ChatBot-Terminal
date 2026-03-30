@@ -13,6 +13,9 @@ Technical Implementation:
 4. Hardware Integration: The ESP32 microcontroller manages the LCD display (16*2) that shows the conversation and final response.
 
 Security Features:
+
 A secure login system was implemented to restrict access to authorized users only, ensuring privacy and data protection during chatbot interactions.
-Impact and Learning Outcomes
+
+Impact and Learning Outcomes:
+
 The project integrated multiple technologies - Python programming, microcontroller interfacing, speech recognition, NLP, and serial communication - thereby strengthening skills in hardware-software integration and full-stack development. It demonstrated practical application of voice-enabled interfaces and secure user authentication in embedded systems.
