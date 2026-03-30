@@ -6,10 +6,11 @@ Objective:
 The primary goal was to provide quick, voice-based answers to queries. The solution enables users to interact with the chatbot through speech,enhancing accessibility and user experience.
 
 Technical Implementation:
-Speech Recognition: User voice input is converted into text using speech-recognition libraries.
-Natural Language Processing(NLP): The textual query is processed with NLP techniques to understand intent and generate an appropriate response.
-Text-To-Speech: The chatbot's reply is converted back to voice output for the user.
-Hardware Integration: The ESP32 microcontroller manages the LCD display (16*2) that shows the conversation and final response.
+
+1. Speech Recognition: User voice input is converted into text using speech-recognition libraries.
+2. Natural Language Processing(NLP): The textual query is processed with NLP techniques to understand intent and generate an appropriate response.
+3. Text-To-Speech: The chatbot's reply is converted back to voice output for the user.
+4. Hardware Integration: The ESP32 microcontroller manages the LCD display (16*2) that shows the conversation and final response.
 
 Security Features:
 A secure login system was implemented to restrict access to authorized users only, ensuring privacy and data protection during chatbot interactions.
